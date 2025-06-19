@@ -5,9 +5,6 @@ A simple Scarpet script for Minecraft Carpet mod that automatically tags fake pl
 
 A simple Scarpet script that automatically tags fake players (bots) from Carpet Mod.
 
-![image](https://user-images.githubusercontent.com/20690628/147395027-e455088d-294b-4b19-8692-16782d43e944.png)
-
-
 ## Features
 
 - Adds a `[BOT]` prefix to bot names.
