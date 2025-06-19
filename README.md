@@ -15,4 +15,4 @@ A simple Scarpet script for Minecraft Carpet mod that automatically tags fake pl
 
 ## Customization
 
-You can edit the prefix and color by modifying the variables at the top of the `bot_tagger.sc` file.
+You can edit the prefix and color by modifying the variables at the top of the `bot.sc` file.
