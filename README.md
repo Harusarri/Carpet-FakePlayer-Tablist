@@ -1,10 +1,6 @@
 # Carpet-FakePlayer-Tablist
 A simple Scarpet script for Minecraft Carpet mod that automatically tags fake players (bots) for easy identification.
 
-# Bot Tagger
-
-A simple Scarpet script that automatically tags fake players (bots) from Carpet Mod.
-
 ## Features
 
 - Adds a `[BOT]` prefix to bot names.
@@ -13,8 +9,8 @@ A simple Scarpet script that automatically tags fake players (bots) from Carpet 
 
 ## Installation
 
-1.  Place `bot_tagger.sc` into your world's `/scripts` folder.
-2.  Run `/script load bot_tagger` in-game.
+1.  Place `bot.sc` into your world's `/scripts` folder.
+2.  Run `/script load bot` in-game.
 3.  Spawn a bot with `/player <name> spawn` to see the effect.
 
 ## Customization
